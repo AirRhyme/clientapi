@@ -1,9 +1,9 @@
 // config/database.js
 module.exports = {
     connection: {
-        host: '108.167.140.159',
-        user: 'daddyst0_andrew',
-        password: 'W0lfieW3stie',
+        host: 'localhost',
+        user: 'root',
+        password: '',
     },
-    database: 'daddyst0_keys'
+    database: 'devclient'
 };
